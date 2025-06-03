@@ -13,11 +13,11 @@ To run this project, you need the following tools installed on your machine:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/LLM_Toxic_level.git
+   git clone https://github.com/pohbl4/Linear_model_Toxic_level.git
    cd LLM_Toxic_level
    ```
 
