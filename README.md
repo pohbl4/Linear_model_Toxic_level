@@ -18,7 +18,7 @@ To run this project, you need the following tools installed on your machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/pohbl4/Linear_model_Toxic_level.git
-   cd LLM_Toxic_level
+   cd Linear_model_Toxic_level
    ```
 
 2. Install dependencies:
