@@ -79,6 +79,6 @@ These are used in `main.py` without the need to retrain.
 ```
 💬 Enter a comment to check for toxicity (or 'exit' to quit):
 Your comment: You are disgusting.
-🧪 Toxicity score: 0.8745
-⚠️ Toxic
+Toxicity score: 0.8745
+Toxic
 ```
